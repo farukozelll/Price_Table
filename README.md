@@ -14,5 +14,5 @@ Credits
 Linearicons
 
 Misc
-Follow 3D4Gen: Twitter, Facebook, GitHub, Instagram
+Follow 3D4Gen: Facebook, GitHub, Instagram
 © 3D4Gen 2020

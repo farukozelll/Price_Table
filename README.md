@@ -13,6 +13,6 @@ Read more here:MIT License
 Credits
 Linearicons
 
-Misc
+Misc.
 Follow 3D4Gen: Facebook, GitHub, Instagram
 © 3D4Gen 2020

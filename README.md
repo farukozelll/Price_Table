@@ -1,7 +1,7 @@
 # Price_Table
 Price_Table
 Inspiration for Pricing Tables
-A couple of styles and inspiration for responsive, flexbox-based HTML pricing tables.
+A couple of styles and inspiration for responsive, flexbox-based HTML pricing tables 
 
 Demo
 
